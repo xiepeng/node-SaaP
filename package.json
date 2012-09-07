@@ -1,6 +1,7 @@
 {
     "name"      : "node-saap",
-    "version"   : "0.1.2",
+    "main"      : "./lib/node-saap.js"
+    "version"   : "0.1.3",
     "author"    : "Peng Xie <xiepeng.peng@gmail.com>",
     "description"   : "A nodejs module for accessing SaaP APIs",
     "contributors"  : [ 
