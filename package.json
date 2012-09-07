@@ -1,0 +1,25 @@
+{
+    "name"      : "node-SaaP",
+    "version"   : "0.1.0",
+    "author"    : "Peng Xie <xiepeng.peng@gmail.com>",
+    "description"   : "A nodejs module for accessing SaaP APIs",
+    "contributors"  : [ 
+        {
+            "name"  : "Peng Xie",
+            "email" : "xiepeng.peng@gmail.com"
+        } 
+    ],
+    "repository"    : {
+        "type": "git",
+        "url": "https://github.com/xiepeng/node-SaaP.git"
+    },
+    "keywords": [
+        "SaaP",
+        "node"
+    ],
+    "license": "MIT",
+    "engines": {
+        "node": ">=0.6"
+    }
+}
+
